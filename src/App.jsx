@@ -1,8 +1,12 @@
+import Ejercicio1 from "./components/ejercicio1";
+
 function App() {
-  
   return (
-    <h1>Prueba</h1>
-  )
+    <section>
+      <h1>Ejercicio1</h1>
+    <Ejercicio1></Ejercicio1>
+    </section>
+  );
 }
 
-export default App
+export default App;
