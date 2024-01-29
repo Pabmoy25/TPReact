@@ -1,5 +1,4 @@
 import Ejercicio2 from "./components/Ejercicio2";
-import Ejercicio1 from "./components/ejercicio1";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
