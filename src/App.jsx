@@ -1,10 +1,11 @@
+import Ejercicio2 from "./components/Ejercicio2";
 import Ejercicio1 from "./components/ejercicio1";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <section>
-      <h1>Ejercicio1</h1>
-    <Ejercicio1></Ejercicio1>
+    <section className="container mt-5">
+      <Ejercicio2 ejercicio2="my friend!"></Ejercicio2>
     </section>
   );
 }

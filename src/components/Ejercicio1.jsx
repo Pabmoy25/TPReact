@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const ejercicio1 = () => {
-    return (
-        <h2>
-            <h2>Hola Mundo</h2>
-        </h2>
-    );
+  return <h2>Hello world!</h2>;
 };
 
 export default ejercicio1;
