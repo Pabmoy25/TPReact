@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <section className="container mt-5 mainpage">
+      <section className="container mt-5 mainpage text-center">
         <Ejercicio2 ejercicio2="my friend!"></Ejercicio2>
       </section>
 
